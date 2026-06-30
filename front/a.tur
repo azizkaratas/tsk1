@@ -1,0 +1,29 @@
+brox = ("Hello World"(0))
+script{
+let z = 21
+}
+java:class{
+
+}
+java{
+
+}
+java:jar{
+
+}
+od(){
+
+}
+html!{
+
+}
+cpp{
+
+}
+count(3){
+    brox = ("Brox"())
+}
+
+all{
+    close(true)
+}
